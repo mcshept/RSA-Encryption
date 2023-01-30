@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rsa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rsa_jar</output-path>
+    <root id="archive" name="rsa.jar">
+      <element id="module-output" name="rsa" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/swing-extensions-visual-padding/0.1.3/swing-extensions-visual-padding-0.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-windows/3.0.2/darklaf-windows-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-property-loader/3.0.2/darklaf-property-loader-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-platform-preferences/3.0.2/darklaf-platform-preferences-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-utils/3.0.2/darklaf-utils-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-platform-decorations/3.0.2/darklaf-platform-decorations-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-theme/3.0.2/darklaf-theme-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-theme-spec/3.0.2/darklaf-theme-spec-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-iconset/3.0.2/darklaf-iconset-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-platform-base/3.0.2/darklaf-platform-base-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-core/3.0.2/darklaf-core-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/jsvg/0.0.9/jsvg-0.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-native-utils/3.0.2/darklaf-native-utils-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-macos/3.0.2/darklaf-macos-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/swing-extensions-laf-support/0.1.3/swing-extensions-laf-support-0.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/darklaf-compatibility/3.0.2/darklaf-compatibility-3.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
